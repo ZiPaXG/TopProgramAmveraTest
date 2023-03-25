@@ -1,2 +1,2 @@
 build:
-  dockerfile: ./EasyProgram/Dockerfile
+  dockerfile: ./Dockerfile
