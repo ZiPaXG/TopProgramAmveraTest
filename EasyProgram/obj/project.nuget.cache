@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "lnjlQBla/1PQqYRtbYHHaGgEHKCLvD1vSqDVocmYnhYgUUwXjR7CkddylqzmeQbTZr7/q6FNL6XpYaSryKco5w==",
+  "dgSpecHash": "z6BqlpwxC4F9GE0bA/3TMWjQx40r7c9z1sYA1TQ0nDSRN2AmsEpLCnxcq1cBSg7xdGvxr7uamLeS/81qbnEJrg==",
   "success": true,
-  "projectFilePath": "D:\\C# Lessons\\EasyProgram\\EasyProgram\\EasyProgram.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\EasyProgram.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shepe\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
   "logs": []
 }

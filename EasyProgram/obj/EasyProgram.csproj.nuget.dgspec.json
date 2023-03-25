@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Lessons\\EasyProgram\\EasyProgram\\EasyProgram.csproj": {}
+    "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\EasyProgram.csproj": {}
   },
   "projects": {
-    "D:\\C# Lessons\\EasyProgram\\EasyProgram\\EasyProgram.csproj": {
+    "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\EasyProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Lessons\\EasyProgram\\EasyProgram\\EasyProgram.csproj",
+        "projectUniqueName": "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\EasyProgram.csproj",
         "projectName": "EasyProgram",
-        "projectPath": "D:\\C# Lessons\\EasyProgram\\EasyProgram\\EasyProgram.csproj",
+        "projectPath": "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\EasyProgram.csproj",
         "packagesPath": "C:\\Users\\shepe\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Lessons\\EasyProgram\\EasyProgram\\obj\\",
+        "outputPath": "D:\\C# Lessons\\EasyProgram\\TopProgramAmveraTest\\EasyProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
