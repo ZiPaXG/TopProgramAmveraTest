@@ -1,2 +1,2 @@
 build:
-  dockerfile: ./TopProgramAmveraTest/Dockerfile
+  dockerfile: ./TopProgramAmveraTest/EasyProgram/Dockerfile
